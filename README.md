@@ -9,7 +9,7 @@ Image hover effects with scaling and box shadow<br>
 Image click event that displays an alert with the image source and alt text<br>
 
 **Getting Started**<br>
-Clone the repository: git clone https://github.com/your-username/challenge.git<br>
+Clone the repository: git clone https://github.com/Kellen-ira/Challenges.git<br>
 Open the index.html file in a web browser to view the gallery<br>
 
 **Files**<br>
